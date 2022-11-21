@@ -1,0 +1,7 @@
+include <studio.H>
+main()
+(
+print"hello"
+print"program"
+)
+request0
